@@ -1,0 +1,3 @@
+Location Type,Parent Path,Location Name,Effective Date,Expiration Date,Full Name,Description,Address,Cost Center,Direct Work Percent,Indirect Work Percent,Transferable,External Id
+Job,CN-ROOT/10100/Patient Services/Main Campus/10230 Cardiology,CHG-CRRT,1/01/1753,1/01/3000,,,,,,,, 
+Job,CN-ROOT/10100/Patient Services/Main Campus/10230 Cardiology,CHG-ECMO,1/01/1753,1/01/3000,,,,,,,,
